@@ -22,7 +22,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\src\Fluxless.Blazor\Fluxless.Blazor.csproj" />
+      <ProjectReference Include="..\..\src\Fluxless.Blazor\Fluxless.Blazor.csproj" />
     </ItemGroup>
-
 </Project>
